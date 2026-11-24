@@ -5,7 +5,7 @@ const pino = require('pino');
 const fs = require('fs');
 
 // Your phone number: digits only, with country code
-const PHONE_NUMBER = '2349014094846';
+const PHONE_NUMBER = '2347063140576';
 
 // Set to true to force a fresh pairing (deletes auth_info on start)
 const FORCE_FRESH_PAIRING = false;
